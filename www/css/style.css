@@ -1,0 +1,18 @@
+/* Empty. Add your own CSS if you like */
+
+.layout{
+	height: 360px;
+}
+
+.layout div{
+	height: 50%;
+	border: 1px solid #000;
+}
+
+.image-div{
+	background-size: cover; 
+}
+
+#tempCanvas{
+	display: none;
+}
